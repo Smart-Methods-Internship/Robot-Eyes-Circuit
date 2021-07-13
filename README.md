@@ -2,6 +2,8 @@
 
 Simulated in TinkerCad
 
+Robot eyes can be used for lighting purposes and also as an indication of the robot being powered on/off.
+
 2 LEDs were used as the robot eyes in this circuit. The LEDs were connected in series so that the eyes can open together and shut together.
 
 1-The components used were a breadboard, 2 capacitors, 1 transistor, 1 resistor, 1 potentiometer, 2 LEDs, and 3 of 1.5V batteries.
